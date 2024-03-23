@@ -1,0 +1,43 @@
+body {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+  }
+
+  .mainContainer {
+    margin-top: 30px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .videoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+.img {
+    height: 260px;
+    width: 400px;
+    margin-bottom: 5px;
+  }
+  
+  .dropdownContainer {
+    text-align: right;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .dropdown {
+    margin-left: auto;
+    margin-bottom: 50px;
+  }
