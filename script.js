@@ -41,7 +41,7 @@ sortTags.forEach((element) => {
 const videos = [
     {
         title : "Inception",
-        thumbNail : `Pics for this PJ/Inception.jpg`,
+        thumbNail : `Inception.jpg`,
         uploadedDate : new Date(2010, 6, 29),
         enjoyability : '9.1/10',
         budget : 160000000
@@ -62,21 +62,21 @@ const videos = [
     },
     {
         title : "Wednesday",
-        thumbNail : "Pics for this PJ/Wednesday.jpg",
+        thumbNail : "Wednesday.jpg",
         uploadedDate : new Date(2022, 9, 23),
         enjoyability : '8.8/10',
         budget :24000000
     },
     {
         title : "harry potter and the philosopher's stone",
-        thumbNail : `Pics for this PJ/Harry Potter 1.jpg`,
+        thumbNail : `Harry Potter 1.jpg`,
         uploadedDate : new Date(2001, 7, 16),
         enjoyability : '9.2/10',
         budget : 125000000
     },
     {
         title : "Stranger Things", 
-        thumbNail : `Pics for this PJ/StrangerThings.jpg`,
+        thumbNail : `StrangerThings.jpg`,
         uploadedDate : new Date(2016, 6, 15),
         enjoyability : '9/10',
         budget : 350000
